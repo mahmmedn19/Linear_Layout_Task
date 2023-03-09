@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Linear Layout  Task</string>
+    <string name="title">محمد ناصر</string>
+    <string name="hours">3 hr</string>
+    <string name="country">مصر</string>
+    <string name="position">مطور اندرويد</string>
+    <string name="daysAgo">منذ 5 ايام</string>
+    <string name="location">مصر</string>
+    <string name="reviews">(150 مراجعه)</string>
+    <string name="rating">4.5</string>
+</resources>

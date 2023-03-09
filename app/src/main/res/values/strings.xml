@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Linear Layout  Task</string>
+    <string name="title">Mo Naser</string>
+    <string name="hours">3 hr</string>
+    <string name="country">Egypt</string>
+    <string name="position">Android Developer</string>
+    <string name="daysAgo">5 Days ago</string>
+    <string name="location">UK</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="rating">4.5</string>
 </resources>
